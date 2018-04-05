@@ -2,4 +2,4 @@ using CoffeeMachine
 using Base.Test
 
 # write your own tests here
-@test 1 == 2
+# TODO: Run ExecutableSpecifications.runspec here, once it's available.
