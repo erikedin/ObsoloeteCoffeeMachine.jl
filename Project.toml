@@ -1,0 +1,7 @@
+name = "CoffeeMachine"
+uuid = "ffa2968a-930f-11e8-033a-755c18701ba8"
+authors = ["Erik Edin <erikedin@users.noreply.github.com>"]
+version = "0.1.0"
+
+[deps]
+ExecutableSpecifications = "7a129280-419d-58e9-81ef-4f6801251892"

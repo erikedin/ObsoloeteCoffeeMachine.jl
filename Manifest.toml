@@ -1,0 +1,10 @@
+[[ExecutableSpecifications]]
+deps = ["Test"]
+git-tree-sha1 = "f165e0979fb11ea599dbd78ec8587a32cfcb985f"
+repo-rev = "master"
+repo-url = "https://github.com/erikedin/ExecutableSpecifications.jl.git"
+uuid = "7a129280-419d-58e9-81ef-4f6801251892"
+version = "0.1.0"
+
+[[Test]]
+uuid = "8dfed614-e22c-5e08-85e1-65c5234f0b40"
