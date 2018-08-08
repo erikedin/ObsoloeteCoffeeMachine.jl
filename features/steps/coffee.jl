@@ -6,12 +6,11 @@ hasmilk(cup::Cup) = cup[:milk] > 0.0
 
 @given "that there is a cup in the coffee machine" begin
     cup = Cup()
-    machine = Machine()
+    machine = context[:machine]
 
     cupisinthemachine(machine, cup)
 
     context[:cup] = cup
-    context[:machine] = machine
 end
 
 @when "the \"Coffee\" button is pressed" begin
