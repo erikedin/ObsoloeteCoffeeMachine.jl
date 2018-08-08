@@ -1,6 +1,6 @@
 [[ExecutableSpecifications]]
 deps = ["Test"]
-git-tree-sha1 = "f165e0979fb11ea599dbd78ec8587a32cfcb985f"
+git-tree-sha1 = "f2bd0fbb5f87595ddc54a4bca907689cd59ea3da"
 repo-rev = "master"
 repo-url = "https://github.com/erikedin/ExecutableSpecifications.jl.git"
 uuid = "7a129280-419d-58e9-81ef-4f6801251892"
